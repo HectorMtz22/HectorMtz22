@@ -17,13 +17,9 @@ Here are some ideas to get you started:
 
 I'm a Frontend Developer
 
-![HectorMtz22's github stats](https://github-readme-stats.vercel.app/api?username=HectorMtz22&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorMtz22&count_private=true)
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HectorMtz22&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HectorMtz22&count_private=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HectorMtz22" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorMtz22&count_private=true&theme=gruvbox" />
 </a>
