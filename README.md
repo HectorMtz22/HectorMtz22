@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a Frontend Developer
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HectorMtz22&count_private=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HectorMtz22&count_private=true&theme=vue-dark&show_icons" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorMtz22&count_private=true&theme=gruvbox" />
