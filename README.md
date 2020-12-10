@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Frontend Developer
+
+![HectorMtz22's github stats](https://github-readme-stats.vercel.app/api?username=HectorMtz22&count_private=true)
