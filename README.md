@@ -22,7 +22,7 @@ I'm a Frontend Developer
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HectorMtz22" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HectorMtz22&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HectorMtz22" />
