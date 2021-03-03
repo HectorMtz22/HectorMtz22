@@ -25,8 +25,8 @@ I'm a Frontend Developer
 - Read below: <a href="https://wildentrepreneur.org/conoce-a-los-ganadores-del-mega-hackathon-de-innovaccion-virtual/">Hackathon</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HectorMtz22&count_private=true&theme=vue-dark&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HectorMtz22&count_private=true&theme=onedark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorMtz22&count_private=true&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorMtz22&count_private=true&theme=onedark" />
 </a>
