@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 I'm a Frontend Developer
 
+- 🔭 I’m currently working on a project of FIME
+- 🌱 I’m currently learning Docker with ReactJS
+- 📫 How to reach me: You can reach me on Linkedin or Twitter. Here are my portfolio 
+<a href="https://hmtzdev.tech">Link to my web page</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HectorMtz22&count_private=true&theme=vue-dark&show_icons=true" />
 </a>
