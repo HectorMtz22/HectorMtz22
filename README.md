@@ -24,7 +24,7 @@ I'm a Frontend Developer
 
 ## Certifications
 
-<img src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg">
+<img style="width: 50px" src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg">
 
 ### Social Networks
 
