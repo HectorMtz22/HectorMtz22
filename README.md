@@ -28,11 +28,9 @@ I'm a Frontend Developer
 
 ### Social Networks
 
-[Linkedin](https://www.linkedin.com/in/hectormtz22/)
-
-[Dev.to](https://www.dev.to/hectormtz22/)
-
-[Instagram](https://www.instagram.com/hectormtz22/)
+- [Linkedin](https://www.linkedin.com/in/hectormtz22/)
+- [Dev.to](https://www.dev.to/hectormtz22/)
+- [Instagram](https://www.instagram.com/hectormtz22/)
 
 ### Languages
 
