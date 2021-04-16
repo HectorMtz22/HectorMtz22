@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 I'm a Frontend Developer
 
 - 🔭 I’m currently working on a <a href="https://github.com/Tall-Programacion-FIME">project</a> of FIME
-  <a href="https://hmtzdev.tech">Link to my web page</a>
 - ⚡ Fun fact: In my first hackathon I won the second place (Innovacción Virtual - Microsoft 2020)
 - Read below: <a href="https://wildentrepreneur.org/conoce-a-los-ganadores-del-mega-hackathon-de-innovaccion-virtual/">Hackathon</a>
 
