@@ -34,6 +34,6 @@ I'm a Frontend Developer
 ### Languages
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HectorMtz22&count_private=true&theme=onedark&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorMtz22&count_private=true&theme=onedark" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=HectorMtz22&count_private=true&theme=dark&show_icons=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorMtz22&count_private=true&theme=dark&layout=compact" />
 </div>
