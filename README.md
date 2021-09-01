@@ -23,8 +23,10 @@ I'm a Frontend Developer
 
 ## Certifications
 
-<img src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="200" />
-
+<a href="https://www.credly.com/badges/94dd8432-e0f6-431c-8e24-b82f914139d1/public_url" target="_blank">
+  <img src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="200" />
+</a>
+  
 ### Social Networks
 
 - [Linkedin](https://www.linkedin.com/in/hectormtz22/)
