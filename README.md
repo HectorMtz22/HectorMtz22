@@ -4,7 +4,7 @@
 
 ### Passionate Software Engineer | Fullstack Developer | Hardware Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectormtz22/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectorfloresmtz/)
 
 </div>
 
@@ -81,6 +81,6 @@ goal: Build innovative solutions combining software and hardware
 
 *Open to collaborating on projects that combine software and hardware*
 
-[![LinkedIn](https://img.shields.io/badge/-Hector_Martinez-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectormtz22/)
+[![LinkedIn](https://img.shields.io/badge/-Hector_Flores-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectorfloresmtz/)
 
 </div>
